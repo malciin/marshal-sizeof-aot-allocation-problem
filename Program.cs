@@ -19,9 +19,6 @@ for (var i = 0; i < 100000; i++)
 
 if (!memIncreased) Console.WriteLine("Memory never increased! :)");
 
-Console.WriteLine("Press any key to exit...");
-Console.ReadKey();
-
 public struct TestStruct
 {
     long x;
