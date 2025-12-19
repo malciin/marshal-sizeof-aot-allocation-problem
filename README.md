@@ -1,5 +1,7 @@
 # `Marshal.SizeOf<T>()` problem when building nativeAOT.
 
+Reported: https://github.com/dotnet/runtime/issues/122666
+
 ## `dotnet run`:
 
 Run: `dotnet run`
